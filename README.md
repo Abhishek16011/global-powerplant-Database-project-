@@ -1,1 +1,1 @@
-# global-powerplant-Database-project-
+# Global-Power-Plant-Database-Project
